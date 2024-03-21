@@ -1,6 +1,10 @@
+import os
 from langchain_community.llms import Ollama
 from langchain.prompts import ChatPromptTemplate
+from dotenv import load_dotenv
 from utils import read_messages, read_prompt
+
+load_dotenv() 
 
 prompt_text = read_prompt('prompt.txt')
 messages = read_messages('messages.txt')
@@ -10,7 +14,9 @@ _prompt = ChatPromptTemplate.from_messages([
     ("human", "{text}"),
 ])
 
-_model = Ollama(base_url='https://ollama.traefikturkey.icu', model="dolphin-mistral", keep_alive=5) # dolphin-mistral
+ollama_url = os.getenv('OLLAMA_URL', 'https://ollama.traefikturkey.icu')
+
+_model = Ollama(base_url=ollama_url , model="dolphin-mistral", keep_alive=5)
 
 chain = _prompt | _model
 
