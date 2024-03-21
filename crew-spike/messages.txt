@@ -1,0 +1,56 @@
+Scam: "HOT DEALS! Get a free iPhone X just by clicking this link! Limited time offer!"
+Valid: "Hey everyone, just set up a new Kubernetes cluster on my homelab using Rancher. Anyone else playing around with container orchestration?"
+Scam: "Make $1000 a day working from home! Just send me a DM to get started!"
+Valid: "Need help troubleshooting a systemd service on my Arch Linux server. Any systemd gurus here?"
+Valid: "Excited to share my latest Ansible playbook for automating server configurations. Check it out in the #automation channel!"
+Scam: "Win a brand new MacBook Pro! Just enter your credit card info for a chance to win!"
+Valid: "Just discovered this cool new tool for monitoring network traffic on Linux. Sharing it here for anyone interested: <link>"
+Scam: "URGENT: Your PayPal account has been compromised! Click here to reset your password immediately."
+Valid: "Having trouble optimizing my Nginx config for my web server. Any tips or best practices?"
+Valid: "Anyone else experimenting with setting up a ZFS pool on Ubuntu for data storage?"
+Scam: "Congratulations! You've won a free trip to the Bahamas! Claim your prize now!"
+Valid: "Just finished setting up my own GitLab instance for personal projects. Feels great to have full control over my repos!"
+Valid: "Looking for recommendations on a good IDE for Python development on Linux. What do you all use?"
+Scam: "Unlock exclusive content by entering your email address here! Guaranteed rewards await!"
+Valid: "Started learning Rust recently and I'm blown away by its performance. Excited to dive deeper into systems programming!"
+Valid: "Any fellow homelabbers here using Proxmox for virtualization? Let's share tips and tricks!"
+Scam: "Get rich quick with this secret cryptocurrency trading strategy! Limited spots available!"
+Valid: "Just stumbled upon a great resource for learning Linux shell scripting. Sharing it here: <link>"
+Valid: "Got my hands on a Raspberry Pi 4 and I'm planning to turn it into a home media server. Any recommendations for software?"
+Scam: "Your computer is infected with a virus! Download this software now to remove it!"
+Valid: "Successfully set up WireGuard VPN on my home network. Now I can securely access my homelab from anywhere!"
+Valid: "Excited to announce the launch of our new tech blog dedicated to Linux tutorials and sysadmin tips. Check it out: <link>"
+Scam: "Join this investment scheme and double your money in just one week! Guaranteed returns!"
+Valid: "Just deployed my first Kubernetes application using Helm charts. Feeling accomplished!"
+Valid: "Anyone have experience setting up CI/CD pipelines for their projects? Looking for advice on the best tools and practices."
+Scam: "I’ll help 10 people to earn $20k within 72 hours but you will pay me 10% of your profit when you receive it. Note only interested people should apply, drop a message let’s get started by asking (HOW) t.me/Officialsteven247"
+Valid: "we've also had people join who don't even read the discord server name, like their brains stopped at k8s and would barge in asking for help for their $jon problems. Both of those things still happen but it's been a lot less then usual since the rename"
+Valid: "www.youtube.com/watch?v=XxIiMA1-W70"
+Valid: "It looks like its coming without E2EE because all those implementations are at least somewhat vendor-specific. That's a little suboptimal. On the one hand, great to have RCS, things moving away from SMS as far as cross-platform messaging is a step forward. On the other hand, iMessage just landed PQ3 and we could really use more cross-platform messaging options (and particularly at the platform/integrated layer) like Signal with strong cryptography")
+Valid: "Hi all, for a start I love the name Techno Tim. Couldnt resist at that point Other than that. 
+                Its not likely I will be asking for help as normally self build, develop and produce. 
+                Main reason I am here is to find like minded people, have a laugh and would love to maybe join an amazing
+                team to help build something spectacular and have fun while doing it.
+                I love helping and teaching people that strive to learn.  My heart is in large scale project work and home innovation, just because lol.
+                I think its a dying breed to have high skilled professionals that have worked hard,
+                to share and use that knowledge to selflessly help others and as a race we need more like that
+                Other than that keep that techno coming"
+Scam: "I'll help first 15 people to earn $50k within a week from the crypto market. But you will pay me 10% of your profits when you receive it. Drop a message let's get started by asking (HOW) via Telegram username below"
+Valid: "I am a full-stack and Smart contract developer. Now I am also learning tensorflow and pytorch for ML. I am here to make good relationships  with top-talented developers."
+Valid: "Hello I have 8 + years experience of Full Stack and Blockchain technologies, with a focus on building immersive experiences for the metaverse using Unity.
+                In terms of Full Stack, I'm proficient in React.js, Vue.js, Next.js, Remix.js, TypeScript, Node.js, Express.js, 
+                and various databases including MongoDB, PostgreSQL, MySQL, and Firebase. On the Blockchain front, I've worked extensively on integrating blockchain 
+                technology into Unity projects. This includes creating NFT marketing sites, staking platforms, NFT minting sites, DeFi, and DAOs using 
+                blockchain platforms such as Stellar, Ripple, Ethereum, Solana, Flux, and more.
+                I have experience seamlessly integrating ChatGPT API into Unity projects to enhance user interaction and engagement.
+                If you're looking to build a website or app for your business, or if you're interested in exploring the possibilities of the metaverse using Unity, I'm here to help! Feel free to DM me to discuss your project further."
+Scam: "Unlock exclusive content by joining our VIP club today! Gain access to premium features and special discounts."
+Scam: "Received an unexpected wire transfer? Click here to verify your account details and claim your funds securely."
+Scam: "Discover the secret to effortless weight loss with our revolutionary new diet pills! Results guaranteed."
+Scam: "Excited to share my new investment strategy that doubled my earnings in just one month! DM for details."
+Scam: "Need help finding your soulmate? Our matchmaking service uses cutting-edge AI to find your perfect match."
+Scam: "Congratulations! You've been selected as the winner of our latest giveaway. Claim your prize now!"
+Scam: "Looking for quick cash? Join our referral program and earn $100 for every friend you refer."
+Scam: "Attention all gamers! Get early access to the hottest new game release by signing up for our beta program."
+Scam: "Unexpected package delivery? Click here to track your shipment and confirm your shipping details."
+Scam: "Feeling lucky? Play our online casino games for a chance to win big jackpots instantly!"
