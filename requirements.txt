@@ -1,0 +1,15 @@
+argcomplete
+bs4
+crewai
+crewai[tools]
+discord
+docker
+feedparser
+flask
+flask-caching
+langchain
+langchain-community
+lxml
+openai
+python-dotenv
+requests

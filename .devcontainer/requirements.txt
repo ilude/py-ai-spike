@@ -1,6 +1,0 @@
-crewai
-crewai[tools]
-discord
-langchain
-langchain-community
-openai
